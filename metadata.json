@@ -1,0 +1,6 @@
+{
+  "name": "كشف المرتب والحضور",
+  "description": "تطبيق شامل لإدارة وتسجيل الحضور والانصراف، حساب الإضافي، بدلات الوجبات، الاستقطاعات وصافي المرتب الشهري لموظفي العمل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
